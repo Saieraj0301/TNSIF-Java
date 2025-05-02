@@ -1,4 +1,4 @@
-#include<iostream>              // For input and output
+#include <iostream>              // For input and output
 #include <vector>                // For dynamic array (vector) use
 #include <chrono>                // For time measurement
 #include <omp.h>                 // For OpenMP parallelization
